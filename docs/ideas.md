@@ -2,20 +2,12 @@
 
 ## Idea 1
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+QuickEats es una aplicación para Android desarrollada en Kotlin que permite a los usuarios pedir comida, productos de supermercado y farmacia con entrega rápida y seguimiento en tiempo real. La plataforma ofrece una amplia variedad de categorías de productos, permitiendo a los clientes realizar pedidos desde restaurantes, supermercados, farmacias y tiendas locales e implementando comunicación constante con el repartidor.
 Aplicaciones similares:
 
-- ...
-- ...
-- ...
-
-## Idea 2
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Aplicaciones similares:
-
-- ...
-- ...
-- ...
+- DiDi Food
+- Uber Eats
+- Domicilios.com
+- iFood
+- PedidosYa
+- Rappi
