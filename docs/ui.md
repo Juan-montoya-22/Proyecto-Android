@@ -9,10 +9,11 @@ La aplicación tendrá la siguientes pantallas
 2. Pantalla 2: Inicio, interfas de inicio de la aplicacion QuickEats.
 
 ![screen1](images/inicio.png) 
+
  
 3. Pantalla 3: Buscar comida, se hace busca la comida o producto consultado.
 
-![screen2](/images/Buscar.png) 
+![screen1](images/Bucar.png) 
    
 4. Pantalla 4:Categoria, se realiza un filtro ubicando ciertos productos en categorias especificas.
 
