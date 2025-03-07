@@ -12,7 +12,7 @@ La aplicación tendrá la siguientes pantallas
  
 3. Pantalla 3: Buscar comida, se hace busca la comida o producto consultado.
 
-![screen1](docs/images/Bucar.png) 
+![screen1](/images/Bucar.png) 
    
 4. Pantalla 4:Categoria, se realiza un filtro ubicando ciertos productos en categorias especificas.
 
