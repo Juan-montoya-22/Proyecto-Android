@@ -12,11 +12,11 @@ La aplicación tendrá la siguientes pantallas
  
 3. Pantalla 3: Buscar comida, se hace busca la comida o producto consultado.
 
-![screen1](docs/images/Bucar_comida.png) 
+![screen1](docs/images/Bucar.png) 
    
 4. Pantalla 4:Categoria, se realiza un filtro ubicando ciertos productos en categorias especificas.
 
-![screen1](images/Categotia_comida.png) 
+![screen1](images/Categotia.png) 
    
 5. Pantalla 5: Historial, se realiza un listado con los pedidos ya finalizados y los que estan en curso.
 
@@ -32,7 +32,7 @@ La aplicación tendrá la siguientes pantallas
 
 8.  Pantalla 8:Metodo de pago credito, se muestra los requisitos para la targeta se credito.
  
-![screen1](images/Metodo_credito.png)
+![screen1](images/Credito.png)
 
 9. Pantalla 9:Metodo de pago debito, se muestra los requisitos para la targeta se debito.
 
