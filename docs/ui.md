@@ -37,7 +37,8 @@ La aplicación tendrá la siguientes pantallas
 8.  Pantalla 8:Metodo de pago credito, se muestra los requisitos para la targeta se credito.
 
  
-![screen1](images/Credito.png)
+
+![screen1](images/Cedito.png) 
 
 
 9. Pantalla 9:Metodo de pago debito, se muestra los requisitos para la targeta se debito.
