@@ -18,7 +18,7 @@ La aplicación tendrá la siguientes pantallas
 4. Pantalla 4:Categoria, se realiza un filtro ubicando ciertos productos en categorias especificas.
 
    
-![screen1](images/Categotia.png) 
+![screen1](images/Categoria.png) 
 
 
    
@@ -35,8 +35,10 @@ La aplicación tendrá la siguientes pantallas
 ![screen1](images/Opciones_pago.png) 
 
 8.  Pantalla 8:Metodo de pago credito, se muestra los requisitos para la targeta se credito.
+
  
 ![screen1](images/Credito.png)
+
 
 9. Pantalla 9:Metodo de pago debito, se muestra los requisitos para la targeta se debito.
 
